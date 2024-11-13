@@ -1,5 +1,7 @@
 # Gestion de projet - Clément Berard
 
+# Chapitre 1
+
 ## 1. Démarrer un projet informatique
 
 ### 1.1.1. Identifier les enjeux du projet
@@ -38,6 +40,8 @@ Le chemin critique est la séquence d'activités qui détermine la durée totale
 ### 2.5. Le suivi financier du projet
 
 ### 2.6. La reglementation concernant la protection des données personnelles
+
+Ne pas hesitez à se renseigner sur Internet pour trouver des informations sur la reglementation concernant la protection des données personnelles.
 
 ### 2.7. Le cadre contractuel du projet
 
