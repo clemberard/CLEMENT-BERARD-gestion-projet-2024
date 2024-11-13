@@ -46,3 +46,34 @@ Ne pas hesitez à se renseigner sur Internet pour trouver des informations sur l
 ### 2.7. Le cadre contractuel du projet
 
 ### 2.8. Etude financière 
+
+## 3. Prise en compte des risques
+
+### 3.1. Les 3 axes
+
+- Axe Casacde
+- Axe d'analyse
+- Axe de pilotage
+
+### 3.2. Le modele de développement
+
+- Le modele cascade
+- Le modele en V
+- Le modele iteratif
+- Le modele RAD
+- Le modele Extreme Programming
+- Le modele RUP
+
+### 3.3. Le modele d'analyse
+
+- Le modele Merise
+- Le modele UML
+
+### 3.4. Le modele de pilotage
+
+### 3.5. Prendre en compte les risques
+
+- L'analyse des risques
+- Le plan de risques
+
+### 3.6. Le modele RUP
