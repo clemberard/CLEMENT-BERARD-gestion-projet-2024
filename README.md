@@ -1,6 +1,6 @@
 # Gestion de projet - Clément Berard
 
-# Chapitre 1
+# Chapitres
 
 ## 1. Démarrer un projet informatique
 
